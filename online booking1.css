@@ -1,0 +1,117 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #ffffff;
+  width: 375px;
+  height: 812px;
+  position: relative;
+  overflow: hidden;
+}
+.book-now {
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  position: absolute;
+  left: 69px;
+  top: 50px;
+}
+.book-now-span {
+  color: #8bd8bd;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+.book-now-span2 {
+  color: #243665;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 9.33%;
+  left: 9.33%;
+  width: 81.33%;
+  bottom: 42.68%;
+  top: 19.7%;
+  height: 37.62%;
+  overflow: visible;
+}
+.quick-easy-to-travel-anywhere-anytime {
+  color: #3e548d;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 34px;
+  font-weight: 600;
+  position: absolute;
+  left: 29px;
+  top: 492px;
+}
+.rectangle-1 {
+  background: #3e548d;
+  border-radius: 0px 50px 0px 0px;
+  width: 375px;
+  height: 141px;
+  position: absolute;
+  left: 0px;
+  top: 671px;
+}
+.swipe-button {
+  width: 206px;
+  height: 56px;
+  position: absolute;
+  left: 83px;
+  top: 714px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 50px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.click-to-start {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  right: -3.4%;
+  left: 16.99%;
+  width: 86.41%;
+  bottom: 25%;
+  top: 25%;
+  height: 50%;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 202px;
+  top: 307px;
+  overflow: hidden;
+}
+
+*{
+  margin: auto;
+}
+
+.rectangle-2:hover{
+  transform: scale(1.1);
+}
+
+*{
+  
+  background: radial-gradient(circle at 0% 50%, transparent 0%, transparent 70%, #0056d6,#0091e3,#00bac8,#9dd9be,#f1f6e5,
+              radial-gradient(circle at 100% 50%, transparent 0%, transparent 70%, #0056d6,#0091e3,#00bac8,#9dd9be,#f1f6e5));
+}
+
