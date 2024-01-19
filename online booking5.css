@@ -1,0 +1,488 @@
+.reservation,
+.reservation * {
+  box-sizing: border-box;
+}
+.reservation {
+  background: #3e548d;
+  width: 375px;
+  height: 812px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #fafafa;
+  border-radius: 25px 25px 0px 0px;
+  width: 375px;
+  height: 642px;
+  position: absolute;
+  left: 0px;
+  top: 170px;
+}
+.vector {
+  height: auto;
+  position: absolute;
+  right: 90.93%;
+  left: 3.73%;
+  width: 5.33%;
+  bottom: 90.89%;
+  top: 6.65%;
+  height: 2.46%;
+  overflow: visible;
+}
+.filter-1 {
+  width: 52px;
+  height: 50px;
+  position: absolute;
+  left: 310px;
+  top: 39px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 17.65%;
+  left: 17.65%;
+  width: 64.71%;
+  bottom: 26.47%;
+  top: 8.82%;
+  height: 64.71%;
+  overflow: visible;
+}
+.vector3 {
+  height: auto;
+  position: absolute;
+  right: 34.85%;
+  left: 32.41%;
+  width: 32.73%;
+  bottom: 44.98%;
+  top: 45.44%;
+  height: 9.58%;
+  overflow: visible;
+}
+.vector4 {
+  height: auto;
+  position: absolute;
+  right: 34.79%;
+  left: 32.35%;
+  width: 32.86%;
+  bottom: 66.89%;
+  top: 23.53%;
+  height: 9.58%;
+  overflow: visible;
+}
+.vector5 {
+  height: auto;
+  position: absolute;
+  right: 34.79%;
+  left: 32.35%;
+  width: 32.86%;
+  bottom: 55.93%;
+  top: 34.49%;
+  height: 9.58%;
+  overflow: visible;
+}
+.davangere {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 55px;
+  top: 49px;
+}
+.harihara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 220px;
+  top: 49px;
+}
+.rectangle-15 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 337px;
+  height: 70px;
+  position: absolute;
+  left: 19px;
+  top: 718px;
+  box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-16 {
+  border-radius: 0px;
+  width: 337px;
+  height: 70px;
+  position: absolute;
+  left: 19px;
+  top: 718px;
+  overflow: visible;
+}
+.rectangle-19 {
+  border-radius: 0px;
+  width: 337px;
+  height: 70px;
+  position: absolute;
+  left: 16px;
+  top: 269px;
+  overflow: visible;
+}
+.upi-payment {
+  color: #243665;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 105px;
+  top: 288px;
+  width: 150px;
+  height: 32px;
+}
+.frame-2 {
+  width: 246px;
+  height: 100px;
+  position: absolute;
+  left: 80px;
+  top: 703px;
+  overflow: hidden;
+}
+.pay-now {
+  color: #243665;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 61px;
+  top: 32px;
+  width: 209px;
+  height: 36px;
+}
+.right-left-arrow-1 {
+  width: 29px;
+  height: 26px;
+  position: absolute;
+  left: 178px;
+  top: 51px;
+  overflow: visible;
+}
+.rectangle-17 {
+  border-radius: 0px;
+  width: 305px;
+  height: 100px;
+  position: absolute;
+  left: 35px;
+  top: 114px;
+  overflow: visible;
+}
+._9-00-am {
+  color: #3e548d;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  right: 17.87%;
+  left: 61.6%;
+  width: 20.53%;
+  bottom: 80.3%;
+  top: 16.38%;
+  height: 3.33%;
+}
+.ksrtc {
+  color: #3e548d;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  right: 71.47%;
+  left: 13.07%;
+  width: 15.47%;
+  bottom: 80.3%;
+  top: 16.38%;
+  height: 3.33%;
+}
+.text {
+  color: #3e548d;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  right: 86.93%;
+  left: 13.07%;
+  width: 0%;
+  bottom: 80.3%;
+  top: 16.38%;
+  height: 3.33%;
+}
+.type {
+  color: #807d86;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 76%;
+  left: 13.07%;
+  width: 10.93%;
+  bottom: 76.48%;
+  top: 20.69%;
+  height: 2.83%;
+}
+.price {
+  color: #807d86;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 27.47%;
+  left: 61.6%;
+  width: 10.93%;
+  bottom: 76.23%;
+  top: 20.94%;
+  height: 2.83%;
+}
+.non-ac {
+  color: #8bd8bd;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  left: 93px;
+  top: 166px;
+}
+.rs-15 {
+  color: #d84130;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  left: 279px;
+  top: 166px;
+}
+.rs-152 {
+  color: #d84130;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  position: absolute;
+  left: 143px;
+  top: 413px;
+}
+.rectangle-18 {
+  background: #4ccb9e;
+  border-radius: 50px;
+  width: 254px;
+  height: 37px;
+  position: absolute;
+  left: 58px;
+  top: 364px;
+}
+.div {
+  color: #243665;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 108px;
+  top: 317px;
+}
+.sbi {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 162px;
+  top: 575px;
+}
+.kotak-mahindra {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 93px;
+  top: 635px;
+  width: 183px;
+  height: 33px;
+}
+.rectangle-20 {
+  background: #3e548d;
+  border-radius: 14px;
+  width: 309px;
+  height: 235px;
+  position: absolute;
+  left: 27px;
+  top: 470px;
+}
+._2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 167px;
+  top: 501px;
+  width: 36px;
+  height: 45px;
+}
+._3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 258px;
+  top: 500px;
+  width: 36px;
+  height: 45px;
+}
+._4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 78px;
+  top: 571px;
+  width: 36px;
+  height: 45px;
+}
+._5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 166px;
+  top: 571px;
+  width: 36px;
+  height: 45px;
+}
+._6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 258px;
+  top: 571px;
+  width: 36px;
+  height: 45px;
+}
+._7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 75px;
+  top: 636px;
+  width: 36px;
+  height: 45px;
+}
+._8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 166px;
+  top: 639px;
+  width: 36px;
+  height: 45px;
+}
+._9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 261px;
+  top: 639px;
+  width: 36px;
+  height: 45px;
+}
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 81px;
+  top: 501px;
+  width: 36px;
+  height: 45px;
+}
+*{
+    margin: auto;
+}
+
+.rectangle-19:hover{
+    transform: scale(1.1);
+}
+
+.rectangle-18:hover{
+    transform: scale(1.1);
+}
+
+.rectangle-16:hover{
+    transform: scale(1.1);
+}
+._1:hover{
+    transform: scale(1.1);
+}
+
+._2:hover{
+    transform: scale(1.1);
+}
+
+._3:hover{
+    transform: scale(1.1);
+}
+
+._4:hover{
+    transform: scale(1.1);
+}
+
+._5:hover{
+    transform: scale(1.1);
+}
+
+._6:hover{
+    transform: scale(1.1);
+}
+
+._7:hover{
+    transform: scale(1.1);
+}
+
+._8:hover{
+    transform: scale(1.1);
+}
+
+._9:hover{
+    transform: scale(1.1);
+}
